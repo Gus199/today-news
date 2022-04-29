@@ -1,0 +1,25 @@
+.icon {
+    color: red;
+}
+
+.path {
+    color: red;
+}
+.si {
+    color: red;
+    justify-content: space-betwen;
+    align-items: center;
+    padding: 20px;
+    list-style: none;
+    heigght: 60px;
+    text-decpration: none;
+    fonct-size: 18px
+    
+  
+}
+.si:hover {
+ 
+        background:#252831;
+        border-left:4px solid #632ce4;
+        cursor: pointer; 
+}
